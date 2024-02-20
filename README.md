@@ -4,7 +4,7 @@
 
 This project is a virtual drum kit that allows users to play different drum sounds by either clicking on the drum pads or pressing corresponding keys on the keyboard. It is built using HTML, CSS, and JavaScript.
 
-## Installation and Usage
+## Installation
 
 1. Clone this repository to your local machine:
 2. Navigate to the project directory.
